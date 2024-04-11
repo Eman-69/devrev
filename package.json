@@ -1,0 +1,20 @@
+{
+  "name": "devrev-task",
+  "version": "1.0.0",
+  "description": "Devrev task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@devrev/typescript-sdk": "^1.1.23",
+    "axios": "^1.6.8",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "node": "^18.20.1",
+    "nodemon": "^3.1.0"
+  }
+}
