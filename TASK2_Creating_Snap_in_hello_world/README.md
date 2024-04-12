@@ -42,6 +42,29 @@ npm run package
 and ensure it succeeds.
 
 You will see a `build.tar.gz` file is created and you can provide it while creating the snap_in_version.
+### Deploying Snap-Ins
+Once you are done with the testing, run the following commands to deploy your snap_in:
+
+1. Authenticate to devrev CLI
+```
+devrev profiles authenticate --org <devorg name> --usr <user email>
+```
+2. Create a snap_in_version
+```
+devrev snap_in_version create-one --path <template path> --create-package
+```
+3. Draft the snap_in
+```
+devrev snap_in draft
+```
+4. Update the snap_in
+```
+devrev snap_in update
+```
+5. Deploy the snap_in
+```
+devrev snap_in deploy
+```
 
 ## Function 1 
 
