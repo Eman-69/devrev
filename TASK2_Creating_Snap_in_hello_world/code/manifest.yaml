@@ -1,6 +1,6 @@
 version: '2'
 
-name: Sample Snap-Ins for Hello World
+name: Hello World
 description: Snap In to add Comments for demonstration purpose.
 
 service_account:
