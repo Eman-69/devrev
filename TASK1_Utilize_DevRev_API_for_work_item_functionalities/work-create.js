@@ -1,8 +1,7 @@
 //Import package to fetch PAT from .env file and store the PAT 
 require("dotenv").config();
+const prompt=require("prompt-sync")();
 const accessToken=process.env.PERSONAL_ACCESS_TOKEN;
-
-
 //Importing Axios
 const axios=require("axios");
 
@@ -11,13 +10,22 @@ const url="https://api.devrev.ai/works.create";
 
 //Data required to create the work
 //Data involves type(issue/ticket), display_id of the parts applied, user_id of the users that is going to own the work, Title of the work
+let type = prompt('issue or ticket: ');
+console.log('You entered:', type);
+let applies_to_part = prompt('display_id of applies_to_part: ');
+console.log('You entered:', applies_to_part);
+let owned_by = prompt('id of owned_by: ');
+console.log('You entered:', owned_by);
+let title = prompt('Title of workitem: ');
+console.log('You entered:', title);
+
 const data={
-    "type": "issue",
-    "applies_to_part": "CAPL-3",
+    "type": type,
+    "applies_to_part": applies_to_part,
     "owned_by": [
-     "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1"
+     owned_by,
 ],
-    "title": "work1",
+    "title": title,
 }
 
 //Post request to create work by passing PAT as header along with the data

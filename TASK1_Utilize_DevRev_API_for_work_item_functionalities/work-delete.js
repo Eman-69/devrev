@@ -10,7 +10,8 @@ const url="https://api.devrev.ai/works.delete";
 
 //Data required to delete the work
 //Data involves id of the work
-const id="don:core:dvrv-us-1:devo/1175dK9kvs:issue/15";
+const id=process.argv[2];
+
 const data={
     "id":id
 }
@@ -29,4 +30,3 @@ axios.post(url,data,{
 .catch(error=>{
     console.log(error);
 })
-

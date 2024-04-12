@@ -1,6 +1,7 @@
 //Import package to fetch PAT from .env file and store the PAT 
 require("dotenv").config();
 const accessToken=process.env.PERSONAL_ACCESS_TOKEN;
+const prompt=require("prompt-sync")();
 
 //Importing Axios   
 const axios=require("axios");
@@ -11,10 +12,12 @@ const url="https://api.devrev.ai/works.update";
 //Data required to update the work
 //Data involves id of the work and the attribute to be updated
 //The attribute we are updating is the title of the work,  we are inputting the title of the work runtime
-const newTitle=process.argv[2];
-const id="don:core:dvrv-us-1:devo/1175dK9kvs:issue/1";
+
+let id = prompt('id of work item: ');
+console.log('You entered:', id);
+let newTitle = prompt('New Title of workitem: ');
+console.log('You entered:', newTitle);
 const data={
-    "type": "issue",
     "id":id,
     "title": newTitle
 }

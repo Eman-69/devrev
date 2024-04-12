@@ -1,0 +1,1471 @@
+{
+  "works": [
+    {
+      "type": "issue",
+      "applies_to_part": {
+        "type": "capability",
+        "display_id": "CAPL-1",
+        "id": "don:core:dvrv-us-1:devo/1175dK9kvs:capability/1",
+        "name": "Default Capability 1"
+      },
+      "created_by": {
+        "type": "dev_user",
+        "display_id": "DEVU-1",
+        "display_name": "4nm20cs069",
+        "email": "4nm20cs069@nmamit.in",
+        "full_name": "4NM20CS069 EMMANUEL JOSHY",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:devu/1",
+        "state": "active"
+      },
+      "created_date": "2024-04-12T06:09:29.807Z",
+      "custom_fields": null,
+      "display_id": "ISS-25",
+      "id": "don:core:dvrv-us-1:devo/1175dK9kvs:issue/25",
+      "modified_by": {
+        "type": "service_account",
+        "display_id": "SVCACC-10",
+        "display_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:svcacc/10",
+        "state": "active"
+      },
+      "modified_date": "2024-04-12T06:09:38.797Z",
+      "owned_by": [
+        {
+          "type": "dev_user",
+          "display_id": "DEVU-1",
+          "display_name": "4nm20cs069",
+          "email": "4nm20cs069@nmamit.in",
+          "full_name": "4NM20CS069 EMMANUEL JOSHY",
+          "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:devu/1",
+          "state": "active"
+        }
+      ],
+      "priority": "p2",
+      "stage": {
+        "name": "triage"
+      },
+      "stock_schema_fragment": "don:core:dvrv-us-1:stock_sf/110623",
+      "title": "workdemo"
+    },
+    {
+      "type": "issue",
+      "applies_to_part": {
+        "type": "capability",
+        "display_id": "CAPL-1",
+        "id": "don:core:dvrv-us-1:devo/1175dK9kvs:capability/1",
+        "name": "Default Capability 1"
+      },
+      "created_by": {
+        "type": "dev_user",
+        "display_id": "DEVU-1",
+        "display_name": "4nm20cs069",
+        "email": "4nm20cs069@nmamit.in",
+        "full_name": "4NM20CS069 EMMANUEL JOSHY",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:devu/1",
+        "state": "active"
+      },
+      "created_date": "2024-04-11T18:01:46.725Z",
+      "custom_fields": null,
+      "display_id": "ISS-24",
+      "id": "don:core:dvrv-us-1:devo/1175dK9kvs:issue/24",
+      "modified_by": {
+        "type": "service_account",
+        "display_id": "SVCACC-10",
+        "display_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:svcacc/10",
+        "state": "active"
+      },
+      "modified_date": "2024-04-11T18:01:57.863Z",
+      "owned_by": [
+        {
+          "type": "dev_user",
+          "display_id": "DEVU-1",
+          "display_name": "4nm20cs069",
+          "email": "4nm20cs069@nmamit.in",
+          "full_name": "4NM20CS069 EMMANUEL JOSHY",
+          "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:devu/1",
+          "state": "active"
+        }
+      ],
+      "priority": "p2",
+      "stage": {
+        "name": "triage"
+      },
+      "stock_schema_fragment": "don:core:dvrv-us-1:stock_sf/110623",
+      "title": "sample-work8"
+    },
+    {
+      "type": "issue",
+      "applies_to_part": {
+        "type": "capability",
+        "display_id": "CAPL-3",
+        "id": "don:core:dvrv-us-1:devo/1175dK9kvs:capability/3",
+        "name": "Default Capability 3"
+      },
+      "created_by": {
+        "type": "dev_user",
+        "display_id": "DEVU-1",
+        "display_name": "4nm20cs069",
+        "email": "4nm20cs069@nmamit.in",
+        "full_name": "4NM20CS069 EMMANUEL JOSHY",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:devu/1",
+        "state": "active"
+      },
+      "created_date": "2024-04-11T17:50:01.407Z",
+      "custom_fields": null,
+      "display_id": "ISS-23",
+      "id": "don:core:dvrv-us-1:devo/1175dK9kvs:issue/23",
+      "modified_by": {
+        "type": "service_account",
+        "display_id": "SVCACC-8",
+        "display_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:svcacc/8",
+        "state": "active"
+      },
+      "modified_date": "2024-04-11T17:50:08.474Z",
+      "owned_by": [
+        {
+          "type": "dev_user",
+          "display_id": "DEVU-1",
+          "display_name": "4nm20cs069",
+          "email": "4nm20cs069@nmamit.in",
+          "full_name": "4NM20CS069 EMMANUEL JOSHY",
+          "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:devu/1",
+          "state": "active"
+        }
+      ],
+      "priority": "p2",
+      "stage": {
+        "name": "triage"
+      },
+      "stock_schema_fragment": "don:core:dvrv-us-1:stock_sf/110623",
+      "title": "sample_work6"
+    },
+    {
+      "type": "issue",
+      "applies_to_part": {
+        "type": "capability",
+        "display_id": "CAPL-3",
+        "id": "don:core:dvrv-us-1:devo/1175dK9kvs:capability/3",
+        "name": "Default Capability 3"
+      },
+      "created_by": {
+        "type": "dev_user",
+        "display_id": "DEVU-1",
+        "display_name": "4nm20cs069",
+        "email": "4nm20cs069@nmamit.in",
+        "full_name": "4NM20CS069 EMMANUEL JOSHY",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:devu/1",
+        "state": "active"
+      },
+      "created_date": "2024-04-11T17:45:16.731Z",
+      "custom_fields": null,
+      "display_id": "ISS-22",
+      "id": "don:core:dvrv-us-1:devo/1175dK9kvs:issue/22",
+      "modified_by": {
+        "type": "service_account",
+        "display_id": "SVCACC-8",
+        "display_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:svcacc/8",
+        "state": "active"
+      },
+      "modified_date": "2024-04-11T17:45:25.308Z",
+      "owned_by": [
+        {
+          "type": "dev_user",
+          "display_id": "DEVU-1",
+          "display_name": "4nm20cs069",
+          "email": "4nm20cs069@nmamit.in",
+          "full_name": "4NM20CS069 EMMANUEL JOSHY",
+          "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:devu/1",
+          "state": "active"
+        }
+      ],
+      "priority": "p2",
+      "stage": {
+        "name": "triage"
+      },
+      "stock_schema_fragment": "don:core:dvrv-us-1:stock_sf/110623",
+      "title": "sample_work5"
+    },
+    {
+      "type": "ticket",
+      "applies_to_part": {
+        "type": "capability",
+        "display_id": "CAPL-3",
+        "id": "don:core:dvrv-us-1:devo/1175dK9kvs:capability/3",
+        "name": "Default Capability 3"
+      },
+      "created_by": {
+        "type": "dev_user",
+        "display_id": "DEVU-1",
+        "display_name": "4nm20cs069",
+        "email": "4nm20cs069@nmamit.in",
+        "full_name": "4NM20CS069 EMMANUEL JOSHY",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:devu/1",
+        "state": "active"
+      },
+      "created_date": "2024-04-11T17:37:49.443Z",
+      "custom_fields": null,
+      "display_id": "TKT-6",
+      "id": "don:core:dvrv-us-1:devo/1175dK9kvs:ticket/6",
+      "modified_by": {
+        "type": "service_account",
+        "display_id": "SVCACC-8",
+        "display_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:svcacc/8",
+        "state": "active"
+      },
+      "modified_date": "2024-04-11T17:37:56.049Z",
+      "owned_by": [
+        {
+          "type": "dev_user",
+          "display_id": "DEVU-1",
+          "display_name": "4nm20cs069",
+          "email": "4nm20cs069@nmamit.in",
+          "full_name": "4NM20CS069 EMMANUEL JOSHY",
+          "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:devu/1",
+          "state": "active"
+        }
+      ],
+      "severity": "medium",
+      "source_channel": "app",
+      "stage": {
+        "name": "queued"
+      },
+      "stock_schema_fragment": "don:core:dvrv-us-1:stock_sf/115436",
+      "title": "sample2"
+    },
+    {
+      "type": "issue",
+      "applies_to_part": {
+        "type": "capability",
+        "display_id": "CAPL-3",
+        "id": "don:core:dvrv-us-1:devo/1175dK9kvs:capability/3",
+        "name": "Default Capability 3"
+      },
+      "created_by": {
+        "type": "dev_user",
+        "display_id": "DEVU-1",
+        "display_name": "4nm20cs069",
+        "email": "4nm20cs069@nmamit.in",
+        "full_name": "4NM20CS069 EMMANUEL JOSHY",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:devu/1",
+        "state": "active"
+      },
+      "created_date": "2024-04-11T17:35:00.373Z",
+      "custom_fields": null,
+      "display_id": "ISS-21",
+      "id": "don:core:dvrv-us-1:devo/1175dK9kvs:issue/21",
+      "modified_by": {
+        "type": "service_account",
+        "display_id": "SVCACC-8",
+        "display_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:svcacc/8",
+        "state": "active"
+      },
+      "modified_date": "2024-04-11T17:35:08.952Z",
+      "owned_by": [
+        {
+          "type": "dev_user",
+          "display_id": "DEVU-1",
+          "display_name": "4nm20cs069",
+          "email": "4nm20cs069@nmamit.in",
+          "full_name": "4NM20CS069 EMMANUEL JOSHY",
+          "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:devu/1",
+          "state": "active"
+        }
+      ],
+      "priority": "p2",
+      "stage": {
+        "name": "triage"
+      },
+      "stock_schema_fragment": "don:core:dvrv-us-1:stock_sf/110623",
+      "title": "samplework3"
+    },
+    {
+      "type": "issue",
+      "applies_to_part": {
+        "type": "capability",
+        "display_id": "CAPL-3",
+        "id": "don:core:dvrv-us-1:devo/1175dK9kvs:capability/3",
+        "name": "Default Capability 3"
+      },
+      "created_by": {
+        "type": "dev_user",
+        "display_id": "DEVU-1",
+        "display_name": "4nm20cs069",
+        "email": "4nm20cs069@nmamit.in",
+        "full_name": "4NM20CS069 EMMANUEL JOSHY",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:devu/1",
+        "state": "active"
+      },
+      "created_date": "2024-04-11T17:29:43.213Z",
+      "custom_fields": null,
+      "display_id": "ISS-20",
+      "id": "don:core:dvrv-us-1:devo/1175dK9kvs:issue/20",
+      "modified_by": {
+        "type": "service_account",
+        "display_id": "SVCACC-8",
+        "display_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:svcacc/8",
+        "state": "active"
+      },
+      "modified_date": "2024-04-11T17:29:51.779Z",
+      "owned_by": [
+        {
+          "type": "sys_user",
+          "display_id": "SYSU-1",
+          "display_name": "devrev-bot",
+          "full_name": "DevRev Bot",
+          "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+          "state": "active"
+        }
+      ],
+      "priority": "p2",
+      "stage": {
+        "name": "triage"
+      },
+      "stock_schema_fragment": "don:core:dvrv-us-1:stock_sf/110623",
+      "title": "work1"
+    },
+    {
+      "type": "issue",
+      "applies_to_part": {
+        "type": "capability",
+        "display_id": "CAPL-3",
+        "id": "don:core:dvrv-us-1:devo/1175dK9kvs:capability/3",
+        "name": "Default Capability 3"
+      },
+      "created_by": {
+        "type": "dev_user",
+        "display_id": "DEVU-1",
+        "display_name": "4nm20cs069",
+        "email": "4nm20cs069@nmamit.in",
+        "full_name": "4NM20CS069 EMMANUEL JOSHY",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:devu/1",
+        "state": "active"
+      },
+      "created_date": "2024-04-11T17:26:54.587Z",
+      "custom_fields": null,
+      "display_id": "ISS-19",
+      "id": "don:core:dvrv-us-1:devo/1175dK9kvs:issue/19",
+      "modified_by": {
+        "type": "service_account",
+        "display_id": "SVCACC-8",
+        "display_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:svcacc/8",
+        "state": "active"
+      },
+      "modified_date": "2024-04-11T17:27:03.689Z",
+      "owned_by": [
+        {
+          "type": "sys_user",
+          "display_id": "SYSU-1",
+          "display_name": "devrev-bot",
+          "full_name": "DevRev Bot",
+          "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+          "state": "active"
+        }
+      ],
+      "priority": "p2",
+      "stage": {
+        "name": "triage"
+      },
+      "stock_schema_fragment": "don:core:dvrv-us-1:stock_sf/110623",
+      "title": "work1"
+    },
+    {
+      "type": "issue",
+      "applies_to_part": {
+        "type": "capability",
+        "display_id": "CAPL-1",
+        "id": "don:core:dvrv-us-1:devo/1175dK9kvs:capability/1",
+        "name": "Default Capability 1"
+      },
+      "created_by": {
+        "type": "dev_user",
+        "display_id": "DEVU-1",
+        "display_name": "4nm20cs069",
+        "email": "4nm20cs069@nmamit.in",
+        "full_name": "4NM20CS069 EMMANUEL JOSHY",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:devu/1",
+        "state": "active"
+      },
+      "created_date": "2024-04-11T14:19:25.949Z",
+      "custom_fields": null,
+      "display_id": "ISS-18",
+      "id": "don:core:dvrv-us-1:devo/1175dK9kvs:issue/18",
+      "modified_by": {
+        "type": "service_account",
+        "display_id": "SVCACC-8",
+        "display_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:svcacc/8",
+        "state": "active"
+      },
+      "modified_date": "2024-04-11T14:19:32.181Z",
+      "owned_by": [
+        {
+          "type": "dev_user",
+          "display_id": "DEVU-1",
+          "display_name": "4nm20cs069",
+          "email": "4nm20cs069@nmamit.in",
+          "full_name": "4NM20CS069 EMMANUEL JOSHY",
+          "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:devu/1",
+          "state": "active"
+        }
+      ],
+      "priority": "p2",
+      "stage": {
+        "name": "triage"
+      },
+      "stock_schema_fragment": "don:core:dvrv-us-1:stock_sf/110623",
+      "title": "sample-work-item-1"
+    },
+    {
+      "type": "ticket",
+      "applies_to_part": {
+        "type": "capability",
+        "display_id": "CAPL-2",
+        "id": "don:core:dvrv-us-1:devo/1175dK9kvs:capability/2",
+        "name": "Default Capability 2"
+      },
+      "created_by": {
+        "type": "dev_user",
+        "display_id": "DEVU-1",
+        "display_name": "4nm20cs069",
+        "email": "4nm20cs069@nmamit.in",
+        "full_name": "4NM20CS069 EMMANUEL JOSHY",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:devu/1",
+        "state": "active"
+      },
+      "created_date": "2024-04-11T14:18:17.37Z",
+      "custom_fields": null,
+      "display_id": "TKT-5",
+      "id": "don:core:dvrv-us-1:devo/1175dK9kvs:ticket/5",
+      "modified_by": {
+        "type": "service_account",
+        "display_id": "SVCACC-8",
+        "display_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:svcacc/8",
+        "state": "active"
+      },
+      "modified_date": "2024-04-11T14:18:27.144Z",
+      "owned_by": [
+        {
+          "type": "dev_user",
+          "display_id": "DEVU-1",
+          "display_name": "4nm20cs069",
+          "email": "4nm20cs069@nmamit.in",
+          "full_name": "4NM20CS069 EMMANUEL JOSHY",
+          "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:devu/1",
+          "state": "active"
+        }
+      ],
+      "severity": "medium",
+      "source_channel": "app",
+      "stage": {
+        "name": "queued"
+      },
+      "stock_schema_fragment": "don:core:dvrv-us-1:stock_sf/115436",
+      "title": "sample ticket1"
+    },
+    {
+      "type": "issue",
+      "applies_to_part": {
+        "type": "capability",
+        "display_id": "CAPL-3",
+        "id": "don:core:dvrv-us-1:devo/1175dK9kvs:capability/3",
+        "name": "Default Capability 3"
+      },
+      "body": "sample demo",
+      "created_by": {
+        "type": "dev_user",
+        "display_id": "DEVU-1",
+        "display_name": "4nm20cs069",
+        "email": "4nm20cs069@nmamit.in",
+        "full_name": "4NM20CS069 EMMANUEL JOSHY",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:devu/1",
+        "state": "active"
+      },
+      "created_date": "2024-04-11T07:05:36.406Z",
+      "custom_fields": null,
+      "display_id": "ISS-17",
+      "id": "don:core:dvrv-us-1:devo/1175dK9kvs:issue/17",
+      "modified_by": {
+        "type": "service_account",
+        "display_id": "SVCACC-7",
+        "display_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:svcacc/7",
+        "state": "active"
+      },
+      "modified_date": "2024-04-11T07:05:45.154Z",
+      "owned_by": [
+        {
+          "type": "dev_user",
+          "display_id": "DEVU-1",
+          "display_name": "4nm20cs069",
+          "email": "4nm20cs069@nmamit.in",
+          "full_name": "4NM20CS069 EMMANUEL JOSHY",
+          "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:devu/1",
+          "state": "active"
+        }
+      ],
+      "priority": "p2",
+      "stage": {
+        "name": "triage"
+      },
+      "stock_schema_fragment": "don:core:dvrv-us-1:stock_sf/110623",
+      "title": "sample-wrok-item-1"
+    },
+    {
+      "type": "issue",
+      "applies_to_part": {
+        "type": "capability",
+        "display_id": "CAPL-3",
+        "id": "don:core:dvrv-us-1:devo/1175dK9kvs:capability/3",
+        "name": "Default Capability 3"
+      },
+      "created_by": {
+        "type": "dev_user",
+        "display_id": "DEVU-1",
+        "display_name": "4nm20cs069",
+        "email": "4nm20cs069@nmamit.in",
+        "full_name": "4NM20CS069 EMMANUEL JOSHY",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:devu/1",
+        "state": "active"
+      },
+      "created_date": "2024-04-08T17:21:15.125Z",
+      "custom_fields": null,
+      "display_id": "ISS-16",
+      "id": "don:core:dvrv-us-1:devo/1175dK9kvs:issue/16",
+      "modified_by": {
+        "type": "dev_user",
+        "display_id": "DEVU-1",
+        "display_name": "4nm20cs069",
+        "email": "4nm20cs069@nmamit.in",
+        "full_name": "4NM20CS069 EMMANUEL JOSHY",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:devu/1",
+        "state": "active"
+      },
+      "modified_date": "2024-04-08T17:21:15.125Z",
+      "owned_by": [
+        {
+          "type": "sys_user",
+          "display_id": "SYSU-1",
+          "display_name": "devrev-bot",
+          "full_name": "DevRev Bot",
+          "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+          "state": "active"
+        }
+      ],
+      "priority": "p2",
+      "stage": {
+        "name": "triage"
+      },
+      "stock_schema_fragment": "don:core:dvrv-us-1:stock_sf/110623",
+      "title": "work1"
+    },
+    {
+      "type": "issue",
+      "applies_to_part": {
+        "type": "feature",
+        "display_id": "FEAT-5",
+        "id": "don:core:dvrv-us-1:devo/1175dK9kvs:feature/5",
+        "name": "Default Feature 5"
+      },
+      "body": "Install the PLuG widget into your application with just a few lines of code and immediately bring the voice of your customer to your entire team. \n\nYou can also test the PLuG widget by clicking DevRev Org settings (top left DevRev icon) -> Support -> PLuG Settings -> View PLuG in Playground.\n\nFollow step by step guide and copy and paste code from the link here -> https://docs.devrev.ai/integrations/plug",
+      "created_by": {
+        "type": "sys_user",
+        "display_id": "SYSU-1",
+        "display_name": "devrev-bot",
+        "full_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+        "state": "active"
+      },
+      "created_date": "2024-04-07T05:57:02.299Z",
+      "custom_fields": null,
+      "display_id": "ISS-12",
+      "id": "don:core:dvrv-us-1:devo/1175dK9kvs:issue/12",
+      "modified_by": {
+        "type": "sys_user",
+        "display_id": "SYSU-1",
+        "display_name": "devrev-bot",
+        "full_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+        "state": "active"
+      },
+      "modified_date": "2024-04-07T05:57:04.991Z",
+      "owned_by": [
+        {
+          "type": "sys_user",
+          "display_id": "SYSU-1",
+          "display_name": "devrev-bot",
+          "full_name": "DevRev Bot",
+          "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+          "state": "active"
+        }
+      ],
+      "priority": "p1",
+      "stage": {
+        "name": "in_development"
+      },
+      "stock_schema_fragment": "don:core:dvrv-us-1:stock_sf/110623",
+      "tags": [
+        {
+          "tag": {
+            "display_id": "TAG-1",
+            "id": "don:core:dvrv-us-1:devo/1175dK9kvs:tag/1",
+            "name": "Getting Started"
+          }
+        }
+      ],
+      "title": "'Install PLuG Today!' - Needs Dev Attention"
+    },
+    {
+      "type": "ticket",
+      "applies_to_part": {
+        "type": "feature",
+        "display_id": "FEAT-5",
+        "id": "don:core:dvrv-us-1:devo/1175dK9kvs:feature/5",
+        "name": "Default Feature 5"
+      },
+      "body": "Your PLuG inbox is your home to communicate and resolve customer questions across chat, email, and social channels. \n\nBut, sometimes a conversation just isn't enough. Tickets help you memoralize the customer ask, track your tasks to resolution, and bring in the right folks to help solve the problem fast. \n\nLet's get started by installing your PLuG widget, but don't worry you aren't alone.  The attached Issue has everything you need to bring the voice of your customer to DevRev.  \n\nNeed development help? Invite a fellow engineer to DevRev and assign the linked Issue to them to start embedding PLuG today!",
+      "created_by": {
+        "type": "sys_user",
+        "display_id": "SYSU-1",
+        "display_name": "devrev-bot",
+        "full_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+        "state": "active"
+      },
+      "created_date": "2024-04-07T05:57:02.249Z",
+      "custom_fields": null,
+      "display_id": "TKT-4",
+      "id": "don:core:dvrv-us-1:devo/1175dK9kvs:ticket/4",
+      "modified_by": {
+        "type": "service_account",
+        "display_id": "SVCACC-2",
+        "display_name": "Convergence Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:svcacc/2",
+        "state": "active"
+      },
+      "modified_date": "2024-04-07T05:57:09.857Z",
+      "owned_by": [
+        {
+          "type": "sys_user",
+          "display_id": "SYSU-1",
+          "display_name": "devrev-bot",
+          "full_name": "DevRev Bot",
+          "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+          "state": "active"
+        }
+      ],
+      "rev_org": {
+        "type": "rev_org",
+        "display_id": "REV-UmuE0DEz",
+        "display_name": "eman-workspace",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:revo/UmuE0DEz"
+      },
+      "severity": "medium",
+      "stage": {
+        "name": "in_development"
+      },
+      "stock_schema_fragment": "don:core:dvrv-us-1:stock_sf/115436",
+      "tags": [
+        {
+          "tag": {
+            "display_id": "TAG-1",
+            "id": "don:core:dvrv-us-1:devo/1175dK9kvs:tag/1",
+            "name": "Getting Started"
+          }
+        }
+      ],
+      "title": "PLuG Conversations to Tickets"
+    },
+    {
+      "type": "issue",
+      "applies_to_part": {
+        "type": "feature",
+        "display_id": "FEAT-3",
+        "id": "don:core:dvrv-us-1:devo/1175dK9kvs:feature/3",
+        "name": "Default Feature 3"
+      },
+      "body": "DevRev's actions are always a keystroke away.  Do more, faster with our default shortcuts and commands.\n\n- Find what you're looking for with Global Search\n- Use Command/Control + K to pull up the global search.",
+      "created_by": {
+        "type": "sys_user",
+        "display_id": "SYSU-1",
+        "display_name": "devrev-bot",
+        "full_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+        "state": "active"
+      },
+      "created_date": "2024-04-07T05:57:01.854Z",
+      "custom_fields": null,
+      "display_id": "ISS-11",
+      "id": "don:core:dvrv-us-1:devo/1175dK9kvs:issue/11",
+      "modified_by": {
+        "type": "sys_user",
+        "display_id": "SYSU-1",
+        "display_name": "devrev-bot",
+        "full_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+        "state": "active"
+      },
+      "modified_date": "2024-04-07T05:57:01.854Z",
+      "owned_by": [
+        {
+          "type": "sys_user",
+          "display_id": "SYSU-1",
+          "display_name": "devrev-bot",
+          "full_name": "DevRev Bot",
+          "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+          "state": "active"
+        }
+      ],
+      "priority": "p2",
+      "stage": {
+        "name": "backlog"
+      },
+      "stock_schema_fragment": "don:core:dvrv-us-1:stock_sf/110623",
+      "tags": [
+        {
+          "tag": {
+            "display_id": "TAG-1",
+            "id": "don:core:dvrv-us-1:devo/1175dK9kvs:tag/1",
+            "name": "Getting Started"
+          }
+        }
+      ],
+      "title": "Productivity Boosts: Shortcuts and Commands"
+    },
+    {
+      "type": "issue",
+      "applies_to_part": {
+        "type": "feature",
+        "display_id": "FEAT-3",
+        "id": "don:core:dvrv-us-1:devo/1175dK9kvs:feature/3",
+        "name": "Default Feature 3"
+      },
+      "body": "DevRev can help link customer conversations and tickets with developer issues. Once connected, the DevRev Flows engine can ensure updates to your customer around their most critical items.\n\nWe also make it easy to find and link similar issues so that teams can align on duplicate work and dependencies to deliver the most value to your customer. \n\nYou can  # mention work items and @ mention people to make your discussions more contextual and actionable. \n\n--------\n\n\nIt's easy to reference another record in DevRev; you can @ mention people, and use # to mention a work item, but sometimes you need something more structured.\n\nLinked records allow you to connect Issues to Tickets, Tickets to conversations, or within an object type.  Once connected, the DevRev Flows engine can ensure updates communicate across records so everyone understands the latest stage of your work.",
+      "created_by": {
+        "type": "sys_user",
+        "display_id": "SYSU-1",
+        "display_name": "devrev-bot",
+        "full_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+        "state": "active"
+      },
+      "created_date": "2024-04-07T05:57:01.799Z",
+      "custom_fields": null,
+      "display_id": "ISS-10",
+      "id": "don:core:dvrv-us-1:devo/1175dK9kvs:issue/10",
+      "modified_by": {
+        "type": "sys_user",
+        "display_id": "SYSU-1",
+        "display_name": "devrev-bot",
+        "full_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+        "state": "active"
+      },
+      "modified_date": "2024-04-07T05:57:01.799Z",
+      "owned_by": [
+        {
+          "type": "sys_user",
+          "display_id": "SYSU-1",
+          "display_name": "devrev-bot",
+          "full_name": "DevRev Bot",
+          "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+          "state": "active"
+        }
+      ],
+      "priority": "p2",
+      "stage": {
+        "name": "backlog"
+      },
+      "stock_schema_fragment": "don:core:dvrv-us-1:stock_sf/110623",
+      "tags": [
+        {
+          "tag": {
+            "display_id": "TAG-1",
+            "id": "don:core:dvrv-us-1:devo/1175dK9kvs:tag/1",
+            "name": "Getting Started"
+          }
+        }
+      ],
+      "title": "The Power of Links"
+    },
+    {
+      "type": "issue",
+      "applies_to_part": {
+        "type": "feature",
+        "display_id": "FEAT-3",
+        "id": "don:core:dvrv-us-1:devo/1175dK9kvs:feature/3",
+        "name": "Default Feature 3"
+      },
+      "body": "Check out the updates page from the left side menu. Here you can find latest updates on work items that are relevant to you, see who has assigned you work, @ mentioned you or replied to your discussions.",
+      "created_by": {
+        "type": "sys_user",
+        "display_id": "SYSU-1",
+        "display_name": "devrev-bot",
+        "full_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+        "state": "active"
+      },
+      "created_date": "2024-04-07T05:57:01.746Z",
+      "custom_fields": null,
+      "display_id": "ISS-9",
+      "id": "don:core:dvrv-us-1:devo/1175dK9kvs:issue/9",
+      "modified_by": {
+        "type": "sys_user",
+        "display_id": "SYSU-1",
+        "display_name": "devrev-bot",
+        "full_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+        "state": "active"
+      },
+      "modified_date": "2024-04-07T05:57:01.746Z",
+      "owned_by": [
+        {
+          "type": "sys_user",
+          "display_id": "SYSU-1",
+          "display_name": "devrev-bot",
+          "full_name": "DevRev Bot",
+          "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+          "state": "active"
+        }
+      ],
+      "priority": "p2",
+      "stage": {
+        "name": "in_development"
+      },
+      "stock_schema_fragment": "don:core:dvrv-us-1:stock_sf/110623",
+      "tags": [
+        {
+          "tag": {
+            "display_id": "TAG-1",
+            "id": "don:core:dvrv-us-1:devo/1175dK9kvs:tag/1",
+            "name": "Getting Started"
+          }
+        }
+      ],
+      "title": "No FOMO with DevRev Updates"
+    },
+    {
+      "type": "issue",
+      "applies_to_part": {
+        "type": "feature",
+        "display_id": "FEAT-2",
+        "id": "don:core:dvrv-us-1:devo/1175dK9kvs:feature/2",
+        "name": "Default Feature 2"
+      },
+      "body": "Vistas are your best friend when it comes to organizing your work. They are saved views that allow you to quickly check on your work. \n\nTo create a Vista sort and filter your data and click the \"Save As\" button in the upper right corner. \n\nYou can share it with others or keep Vistas private.  To access saved Vistas, simply click on them in the left-hand navigation.",
+      "created_by": {
+        "type": "sys_user",
+        "display_id": "SYSU-1",
+        "display_name": "devrev-bot",
+        "full_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+        "state": "active"
+      },
+      "created_date": "2024-04-07T05:57:01.662Z",
+      "custom_fields": null,
+      "display_id": "ISS-8",
+      "id": "don:core:dvrv-us-1:devo/1175dK9kvs:issue/8",
+      "modified_by": {
+        "type": "sys_user",
+        "display_id": "SYSU-1",
+        "display_name": "devrev-bot",
+        "full_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+        "state": "active"
+      },
+      "modified_date": "2024-04-07T05:57:01.662Z",
+      "owned_by": [
+        {
+          "type": "sys_user",
+          "display_id": "SYSU-1",
+          "display_name": "devrev-bot",
+          "full_name": "DevRev Bot",
+          "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+          "state": "active"
+        }
+      ],
+      "priority": "p1",
+      "stage": {
+        "name": "backlog"
+      },
+      "stock_schema_fragment": "don:core:dvrv-us-1:stock_sf/110623",
+      "tags": [
+        {
+          "tag": {
+            "display_id": "TAG-1",
+            "id": "don:core:dvrv-us-1:devo/1175dK9kvs:tag/1",
+            "name": "Getting Started"
+          }
+        }
+      ],
+      "title": "Organize and share your works with Vistas"
+    },
+    {
+      "type": "issue",
+      "applies_to_part": {
+        "type": "feature",
+        "display_id": "FEAT-2",
+        "id": "don:core:dvrv-us-1:devo/1175dK9kvs:feature/2",
+        "name": "Default Feature 2"
+      },
+      "body": "Never ask if someone created a new sprint again or added items from the backlog.\n\nContinuous Planning is now easier than ever with Now, Next, and Later.  \n\nNow and Next = Your current sprint.  Next, is what's planned and the different stages of 'now' help you understand where the work is in development.\n\nLater = The sprint after this, using workflows you can auto-populate Now/Next once a sprint concludes.\n\nBacklog = With DevRev we give you insight into the weight of what customers have asked for in Tickets, and what was in your planned roadmap; to ensure your backlog is constantly reprioritized with items that make the biggest impact.",
+      "created_by": {
+        "type": "sys_user",
+        "display_id": "SYSU-1",
+        "display_name": "devrev-bot",
+        "full_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+        "state": "active"
+      },
+      "created_date": "2024-04-07T05:57:01.604Z",
+      "custom_fields": null,
+      "display_id": "ISS-7",
+      "id": "don:core:dvrv-us-1:devo/1175dK9kvs:issue/7",
+      "modified_by": {
+        "type": "sys_user",
+        "display_id": "SYSU-1",
+        "display_name": "devrev-bot",
+        "full_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+        "state": "active"
+      },
+      "modified_date": "2024-04-07T05:57:04.01Z",
+      "owned_by": [
+        {
+          "type": "sys_user",
+          "display_id": "SYSU-1",
+          "display_name": "devrev-bot",
+          "full_name": "DevRev Bot",
+          "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+          "state": "active"
+        }
+      ],
+      "priority": "p2",
+      "stage": {
+        "name": "in_development"
+      },
+      "stock_schema_fragment": "don:core:dvrv-us-1:stock_sf/110623",
+      "tags": [
+        {
+          "tag": {
+            "display_id": "TAG-1",
+            "id": "don:core:dvrv-us-1:devo/1175dK9kvs:tag/1",
+            "name": "Getting Started"
+          }
+        }
+      ],
+      "title": "Stay organized with Now, Next, Later"
+    },
+    {
+      "type": "issue",
+      "applies_to_part": {
+        "type": "feature",
+        "display_id": "FEAT-1",
+        "id": "don:core:dvrv-us-1:devo/1175dK9kvs:feature/1",
+        "name": "Default Feature 1"
+      },
+      "body": "Under Trails, you can create products, capabilities and features to help organize your work.\n\nUse our discovery feature to add Dev Parts like microservices, and connect these to your features for complete visibility into your product architecture.",
+      "created_by": {
+        "type": "sys_user",
+        "display_id": "SYSU-1",
+        "display_name": "devrev-bot",
+        "full_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+        "state": "active"
+      },
+      "created_date": "2024-04-07T05:57:01.526Z",
+      "custom_fields": null,
+      "display_id": "ISS-6",
+      "id": "don:core:dvrv-us-1:devo/1175dK9kvs:issue/6",
+      "modified_by": {
+        "type": "sys_user",
+        "display_id": "SYSU-1",
+        "display_name": "devrev-bot",
+        "full_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+        "state": "active"
+      },
+      "modified_date": "2024-04-07T05:57:01.526Z",
+      "owned_by": [
+        {
+          "type": "sys_user",
+          "display_id": "SYSU-1",
+          "display_name": "devrev-bot",
+          "full_name": "DevRev Bot",
+          "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+          "state": "active"
+        }
+      ],
+      "priority": "p1",
+      "stage": {
+        "name": "backlog"
+      },
+      "stock_schema_fragment": "don:core:dvrv-us-1:stock_sf/110623",
+      "tags": [
+        {
+          "tag": {
+            "display_id": "TAG-1",
+            "id": "don:core:dvrv-us-1:devo/1175dK9kvs:tag/1",
+            "name": "Getting Started"
+          }
+        }
+      ],
+      "title": "Create your Parts"
+    },
+    {
+      "type": "issue",
+      "applies_to_part": {
+        "type": "feature",
+        "display_id": "FEAT-1",
+        "id": "don:core:dvrv-us-1:devo/1175dK9kvs:feature/1",
+        "name": "Default Feature 1"
+      },
+      "body": "Connect your legacy app and sync your data to start building faster.  \n\nIf you use Jira or GitHub Issues, you can connect it to DevRev to populate your Issues.  \n\nWe will be continually offer additional CRM integrations, shoot us a note in the PLuG widget to let us know what integrations would be helpful.",
+      "created_by": {
+        "type": "sys_user",
+        "display_id": "SYSU-1",
+        "display_name": "devrev-bot",
+        "full_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+        "state": "active"
+      },
+      "created_date": "2024-04-07T05:57:01.477Z",
+      "custom_fields": null,
+      "display_id": "ISS-5",
+      "id": "don:core:dvrv-us-1:devo/1175dK9kvs:issue/5",
+      "modified_by": {
+        "type": "sys_user",
+        "display_id": "SYSU-1",
+        "display_name": "devrev-bot",
+        "full_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+        "state": "active"
+      },
+      "modified_date": "2024-04-07T05:57:01.477Z",
+      "owned_by": [
+        {
+          "type": "sys_user",
+          "display_id": "SYSU-1",
+          "display_name": "devrev-bot",
+          "full_name": "DevRev Bot",
+          "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+          "state": "active"
+        }
+      ],
+      "priority": "p0",
+      "stage": {
+        "name": "backlog"
+      },
+      "stock_schema_fragment": "don:core:dvrv-us-1:stock_sf/110623",
+      "tags": [
+        {
+          "tag": {
+            "display_id": "TAG-1",
+            "id": "don:core:dvrv-us-1:devo/1175dK9kvs:tag/1",
+            "name": "Getting Started"
+          }
+        }
+      ],
+      "title": "Migrate to DevRev with Airdrop!"
+    },
+    {
+      "type": "issue",
+      "applies_to_part": {
+        "type": "feature",
+        "display_id": "FEAT-1",
+        "id": "don:core:dvrv-us-1:devo/1175dK9kvs:feature/1",
+        "name": "Default Feature 1"
+      },
+      "body": "Your conversations will be contained around each issue/ticket. You can tag your coworkers, link to other work items and log info about the work.",
+      "created_by": {
+        "type": "sys_user",
+        "display_id": "SYSU-1",
+        "display_name": "devrev-bot",
+        "full_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+        "state": "active"
+      },
+      "created_date": "2024-04-07T05:57:01.421Z",
+      "custom_fields": null,
+      "display_id": "ISS-4",
+      "id": "don:core:dvrv-us-1:devo/1175dK9kvs:issue/4",
+      "modified_by": {
+        "type": "sys_user",
+        "display_id": "SYSU-1",
+        "display_name": "devrev-bot",
+        "full_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+        "state": "active"
+      },
+      "modified_date": "2024-04-07T05:57:01.421Z",
+      "owned_by": [
+        {
+          "type": "sys_user",
+          "display_id": "SYSU-1",
+          "display_name": "devrev-bot",
+          "full_name": "DevRev Bot",
+          "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+          "state": "active"
+        }
+      ],
+      "priority": "p0",
+      "stage": {
+        "name": "in_development"
+      },
+      "stock_schema_fragment": "don:core:dvrv-us-1:stock_sf/110623",
+      "tags": [
+        {
+          "tag": {
+            "display_id": "TAG-1",
+            "id": "don:core:dvrv-us-1:devo/1175dK9kvs:tag/1",
+            "name": "Getting Started"
+          }
+        }
+      ],
+      "title": "Efficiently communicate within your work"
+    },
+    {
+      "type": "issue",
+      "applies_to_part": {
+        "type": "feature",
+        "display_id": "FEAT-1",
+        "id": "don:core:dvrv-us-1:devo/1175dK9kvs:feature/1",
+        "name": "Default Feature 1"
+      },
+      "body": "DevRev's Build Vistas provide a view and metadata about the lifecycle of you and your team's development efforts.\n\nClick the linked Issue record to learn how NNL helps you plan with ease and the linked ticket to understand ticket triaging workflows.",
+      "created_by": {
+        "type": "sys_user",
+        "display_id": "SYSU-1",
+        "display_name": "devrev-bot",
+        "full_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+        "state": "active"
+      },
+      "created_date": "2024-04-07T05:57:01.364Z",
+      "custom_fields": null,
+      "display_id": "ISS-3",
+      "id": "don:core:dvrv-us-1:devo/1175dK9kvs:issue/3",
+      "modified_by": {
+        "type": "sys_user",
+        "display_id": "SYSU-1",
+        "display_name": "devrev-bot",
+        "full_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+        "state": "active"
+      },
+      "modified_date": "2024-04-07T05:57:03.999Z",
+      "owned_by": [
+        {
+          "type": "sys_user",
+          "display_id": "SYSU-1",
+          "display_name": "devrev-bot",
+          "full_name": "DevRev Bot",
+          "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+          "state": "active"
+        }
+      ],
+      "priority": "p2",
+      "stage": {
+        "name": "backlog"
+      },
+      "stock_schema_fragment": "don:core:dvrv-us-1:stock_sf/110623",
+      "tags": [
+        {
+          "tag": {
+            "display_id": "TAG-1",
+            "id": "don:core:dvrv-us-1:devo/1175dK9kvs:tag/1",
+            "name": "Getting Started"
+          }
+        }
+      ],
+      "title": "Get to Know the Default Build Vistas"
+    },
+    {
+      "type": "issue",
+      "applies_to_part": {
+        "type": "feature",
+        "display_id": "FEAT-1",
+        "id": "don:core:dvrv-us-1:devo/1175dK9kvs:feature/1",
+        "name": "Default Feature 1"
+      },
+      "body": "DevRev brings developers closer to their customers through work and has real-time collaboration features. To take advantage of all the collaboration features, invite your teammates and tag or assign their work items in DevRev.\n\nTo invite your teammates, simply click on the smiley face 🙂 icon on the bottom left screen and click on Invite users.\n\nGo ahead, we will wait while you do it.",
+      "created_by": {
+        "type": "sys_user",
+        "display_id": "SYSU-1",
+        "display_name": "devrev-bot",
+        "full_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+        "state": "active"
+      },
+      "created_date": "2024-04-07T05:57:01.315Z",
+      "custom_fields": null,
+      "display_id": "ISS-2",
+      "id": "don:core:dvrv-us-1:devo/1175dK9kvs:issue/2",
+      "modified_by": {
+        "type": "sys_user",
+        "display_id": "SYSU-1",
+        "display_name": "devrev-bot",
+        "full_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+        "state": "active"
+      },
+      "modified_date": "2024-04-07T05:57:01.315Z",
+      "owned_by": [
+        {
+          "type": "sys_user",
+          "display_id": "SYSU-1",
+          "display_name": "devrev-bot",
+          "full_name": "DevRev Bot",
+          "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+          "state": "active"
+        }
+      ],
+      "priority": "p2",
+      "stage": {
+        "name": "in_development"
+      },
+      "stock_schema_fragment": "don:core:dvrv-us-1:stock_sf/110623",
+      "tags": [
+        {
+          "tag": {
+            "display_id": "TAG-1",
+            "id": "don:core:dvrv-us-1:devo/1175dK9kvs:tag/1",
+            "name": "Getting Started"
+          }
+        }
+      ],
+      "title": "DevRev is better with friends! Invite other users to your org"
+    },
+    {
+      "type": "issue",
+      "applies_to_part": {
+        "type": "feature",
+        "display_id": "FEAT-1",
+        "id": "don:core:dvrv-us-1:devo/1175dK9kvs:feature/1",
+        "name": "Default Feature 1"
+      },
+      "body": "Within DevRev, an Issue is a way to track the work of a maker/developer.\n\nYou can link Issues to Tickets to bring the voice of your customers to your prioritized development plans. \n\nYou can have real-time conversations with your teammates at Issues and enrich them with additional fields.",
+      "created_by": {
+        "type": "sys_user",
+        "display_id": "SYSU-1",
+        "display_name": "devrev-bot",
+        "full_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+        "state": "active"
+      },
+      "created_date": "2024-04-07T05:57:01.264Z",
+      "custom_fields": null,
+      "display_id": "ISS-1",
+      "id": "don:core:dvrv-us-1:devo/1175dK9kvs:issue/1",
+      "modified_by": {
+        "type": "dev_user",
+        "display_id": "DEVU-1",
+        "display_name": "4nm20cs069",
+        "email": "4nm20cs069@nmamit.in",
+        "full_name": "4NM20CS069 EMMANUEL JOSHY",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:devu/1",
+        "state": "active"
+      },
+      "modified_date": "2024-04-09T12:31:17.016Z",
+      "owned_by": [
+        {
+          "type": "sys_user",
+          "display_id": "SYSU-1",
+          "display_name": "devrev-bot",
+          "full_name": "DevRev Bot",
+          "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+          "state": "active"
+        }
+      ],
+      "priority": "p2",
+      "stage": {
+        "name": "in_development"
+      },
+      "stock_schema_fragment": "don:core:dvrv-us-1:stock_sf/110623",
+      "tags": [
+        {
+          "tag": {
+            "display_id": "TAG-1",
+            "id": "don:core:dvrv-us-1:devo/1175dK9kvs:tag/1",
+            "name": "Getting Started"
+          }
+        }
+      ],
+      "title": "wk2"
+    },
+    {
+      "type": "ticket",
+      "applies_to_part": {
+        "type": "feature",
+        "display_id": "FEAT-1",
+        "id": "don:core:dvrv-us-1:devo/1175dK9kvs:feature/1",
+        "name": "Default Feature 1"
+      },
+      "body": "Tickets help voice the customers problem or requests from the user's point of view.  \n\nTickets can be linked to conversations and reference the customer directly.  \n\nBy linking a Ticket to an Issue, DevRev Flows (an in-built automation workflow engine) can update the Ticket and even notify the customer once the work is complete.",
+      "created_by": {
+        "type": "sys_user",
+        "display_id": "SYSU-1",
+        "display_name": "devrev-bot",
+        "full_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+        "state": "active"
+      },
+      "created_date": "2024-04-07T05:57:01.207Z",
+      "custom_fields": null,
+      "display_id": "TKT-3",
+      "id": "don:core:dvrv-us-1:devo/1175dK9kvs:ticket/3",
+      "modified_by": {
+        "type": "service_account",
+        "display_id": "SVCACC-2",
+        "display_name": "Convergence Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:svcacc/2",
+        "state": "active"
+      },
+      "modified_date": "2024-04-07T05:57:10.145Z",
+      "owned_by": [
+        {
+          "type": "sys_user",
+          "display_id": "SYSU-1",
+          "display_name": "devrev-bot",
+          "full_name": "DevRev Bot",
+          "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+          "state": "active"
+        }
+      ],
+      "severity": "medium",
+      "stage": {
+        "name": "in_development"
+      },
+      "stock_schema_fragment": "don:core:dvrv-us-1:stock_sf/115436",
+      "tags": [
+        {
+          "tag": {
+            "display_id": "TAG-1",
+            "id": "don:core:dvrv-us-1:devo/1175dK9kvs:tag/1",
+            "name": "Getting Started"
+          }
+        }
+      ],
+      "title": "Tickets Please!"
+    },
+    {
+      "type": "ticket",
+      "applies_to_part": {
+        "type": "feature",
+        "display_id": "FEAT-1",
+        "id": "don:core:dvrv-us-1:devo/1175dK9kvs:feature/1",
+        "name": "Default Feature 1"
+      },
+      "body": "DevRev's Customer Support Vistas provide views and metadata about the lifecycle of your support team's work.\n\n##All Tickets\nThis is where you can find all tickets in your organization that are currently active or in progress.\n\n##Team Activity\nActive tickets grouped by owner to help track team workloads.\n\n💫 Pro Tip: Try grouping by different attributes to organize by Parts, Customers, Stage, etc. and save it as a new Vista.\n\n##Active Ticket Tracker\nTickets move through various stages from `Queued`, the default stage to track all new tickets to `Resolved`.  This is your place to track active tickets as they move from stage to stage.\n\n##Product Assist Tickets\nSome tickets require assistance from product or subject matter experts. Use this vista to track active tickets that need development work to be resolved, and therefore will be linked to Issues.",
+      "created_by": {
+        "type": "sys_user",
+        "display_id": "SYSU-1",
+        "display_name": "devrev-bot",
+        "full_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+        "state": "active"
+      },
+      "created_date": "2024-04-07T05:57:01.141Z",
+      "custom_fields": null,
+      "display_id": "TKT-2",
+      "id": "don:core:dvrv-us-1:devo/1175dK9kvs:ticket/2",
+      "modified_by": {
+        "type": "sys_user",
+        "display_id": "SYSU-1",
+        "display_name": "devrev-bot",
+        "full_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+        "state": "active"
+      },
+      "modified_date": "2024-04-07T05:57:01.141Z",
+      "owned_by": [
+        {
+          "type": "sys_user",
+          "display_id": "SYSU-1",
+          "display_name": "devrev-bot",
+          "full_name": "DevRev Bot",
+          "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+          "state": "active"
+        }
+      ],
+      "severity": "medium",
+      "stage": {
+        "name": "queued"
+      },
+      "stock_schema_fragment": "don:core:dvrv-us-1:stock_sf/115436",
+      "tags": [
+        {
+          "tag": {
+            "display_id": "TAG-1",
+            "id": "don:core:dvrv-us-1:devo/1175dK9kvs:tag/1",
+            "name": "Getting Started"
+          }
+        }
+      ],
+      "title": "Get to Know the Default Support Vistas"
+    },
+    {
+      "type": "ticket",
+      "applies_to_part": {
+        "type": "feature",
+        "display_id": "FEAT-1",
+        "id": "don:core:dvrv-us-1:devo/1175dK9kvs:feature/1",
+        "name": "Default Feature 1"
+      },
+      "body": "Help is a click away. Simply hit the question mark icon ﹖ icon in the bottom left of the screen and chat with one of us.\n\nAsk a question, give us feedback or simply say Hi! 👋",
+      "created_by": {
+        "type": "sys_user",
+        "display_id": "SYSU-1",
+        "display_name": "devrev-bot",
+        "full_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+        "state": "active"
+      },
+      "created_date": "2024-04-07T05:57:00.574Z",
+      "custom_fields": null,
+      "display_id": "TKT-1",
+      "id": "don:core:dvrv-us-1:devo/1175dK9kvs:ticket/1",
+      "modified_by": {
+        "type": "sys_user",
+        "display_id": "SYSU-1",
+        "display_name": "devrev-bot",
+        "full_name": "DevRev Bot",
+        "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+        "state": "active"
+      },
+      "modified_date": "2024-04-07T05:57:00.574Z",
+      "owned_by": [
+        {
+          "type": "sys_user",
+          "display_id": "SYSU-1",
+          "display_name": "devrev-bot",
+          "full_name": "DevRev Bot",
+          "id": "don:identity:dvrv-us-1:devo/1175dK9kvs:sysu/1",
+          "state": "active"
+        }
+      ],
+      "severity": "medium",
+      "stage": {
+        "name": "queued"
+      },
+      "stock_schema_fragment": "don:core:dvrv-us-1:stock_sf/115436",
+      "tags": [
+        {
+          "tag": {
+            "display_id": "TAG-1",
+            "id": "don:core:dvrv-us-1:devo/1175dK9kvs:tag/1",
+            "name": "Getting Started"
+          }
+        }
+      ],
+      "title": "Have a question?"
+    }
+  ]
+}
