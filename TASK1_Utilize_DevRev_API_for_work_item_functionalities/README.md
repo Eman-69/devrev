@@ -127,3 +127,37 @@ node work-update.js
 ```
 
 
+
+## Work Delete
+
+INPUT: 
+id of work item,
+
+
+
+
+## Run Locally
+
+```bash
+node work-update.js [work_id]
+```
+
+
+## Input
+
+![App Screenshot](Screenshots/work-delete.png)
+
+
+
+
+
+## Output
+
+
+
+```bash
+  data: {}
+```
+
+
+
