@@ -4,7 +4,11 @@
 
 ## How to initialize Devrev SDK, build, deploy 
 
-## DevRev Snaps TypeScript Template
+## Create DevRev Snaps TypeScript Template
+```
+devrev snap_in_version init
+
+```
 
 This repository contains a template for the functions that can be deployed as
 part of Snap-Ins.
