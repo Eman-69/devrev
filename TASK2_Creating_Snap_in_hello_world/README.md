@@ -74,10 +74,47 @@ You will see a `build.tar.gz` file is created and you can provide it while creat
       type:'timeline_comment',
       body:bodyComment
   }
+  try {
+    const response = await devrevSDK.timelineEntriesCreate(body as any);
+    return response;
+  } catch (error) {
+    console.log(error);
+    return error;
+  }
 ```
 
+## Function 2
 
-##Result
+
+```bash
+-Works when there is no work d available
+-Works when we create an issue or ticket 
+-DevRev displays a Hello world message to the new work item
+```
+    
+## Main Part of Function 2
+
+
+
+```bash
+  const workCreated=event.payload.source_id;
+  const bodyComment="Hello World";
+  const body={
+    object:workCreated,
+    type:'timeline_comment',
+    body:bodyComment
+  }
+  try {
+    const response = await devrevSDK.timelineEntriesCreate(body as any);
+    return response;
+  } catch (error) {
+    console.log(error);
+    return error;
+  }
+}
+```
+
+## Result
 
 ![App Screenshot](Screenshots/pic.png)
 
