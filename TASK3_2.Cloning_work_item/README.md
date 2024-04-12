@@ -50,7 +50,7 @@ devrev profiles authenticate --org <devorg name> --usr <user email>
 ```
 2. Create a snap_in_version
 ```
-devrev snap_in_version create-one --path <template path> --create-package
+devrev snap_in_version create-one --manifest <manifest.yaml --archive build.tar.gz
 ```
 3. Draft the snap_in
 ```
