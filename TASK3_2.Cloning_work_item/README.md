@@ -63,3 +63,38 @@ devrev snap_in update
 5. Deploy the snap_in
 ```
 devrev snap_in deploy
+
+
+## Function 1 
+
+
+```bash
+-Works when there is a work item data available 
+-Works when we create an issue or ticket 
+-DevRev clones work item with title, owned_by, type, applied_to_part
+```
+    
+## Main Part of Function on_work_creation
+
+
+
+```bash
+   const searchedID = event.payload.work_created.work;
+  const applies_to_part = searchedID["applies_to_part"].display_id;
+  const owned_by = (searchedID.owned_by as any[]).map(item => item.id);
+  const title=searchedID.title;
+  const type=searchedID.type;
+  const data={   applies_to_part: applies_to_part,
+    owned_by: owned_by,
+    title: title,
+    type:publicSDK.WorkType.Ticket}
+  try {
+    const response = await devrevSDK.worksCreate(data,undefined);
+    if(response.status==200)
+      return response;
+  } catch (error) {
+    console.log(error);
+    return error;
+  }
+  
+```
