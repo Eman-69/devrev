@@ -98,3 +98,7 @@ devrev snap_in deploy
   }
   
 ```
+
+## Result
+
+![App Screenshot](Screenshots/pic.png)
