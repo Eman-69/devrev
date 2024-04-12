@@ -18,11 +18,17 @@ export async function handleEvent(
   const applies_to_part = searchedID["applies_to_part"].display_id;
   const owned_by = (searchedID.owned_by as any[]).map(item => item.id);
   const title=searchedID.title;
-  const type=searchedID.type;
+  let type:any;
+  if(searchedID.type=='issue')
+    type=publicSDK.WorkType.Issue;
+  else
+    type=publicSDK.WorkType.Ticket;
+    
+    
   const data={   applies_to_part: applies_to_part,
     owned_by: owned_by,
     title: title,
-    type:publicSDK.WorkType.Ticket}
+    type:type}
   try {
     const response = await devrevSDK.worksCreate(data,undefined);
     if(response.status==200)
