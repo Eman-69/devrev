@@ -54,3 +54,76 @@ node work-create.js
   }
 ```
 
+
+
+## Work Update
+
+INPUT: 
+id of work item,
+Updated Title of workitem
+
+
+
+
+## Run Locally
+
+```bash
+node work-update.js
+```
+
+
+## Input
+
+![App Screenshot](Screenshots/work-update.png)
+
+
+
+
+
+## Output
+
+
+
+```bash
+  {
+  work: {
+    type: 'issue',
+    applies_to_part: {
+      type: 'capability',
+      display_id: 'CAPL-1',
+      id: 'don:core:dvrv-us-1:devo/1175dK9kvs:capability/1',
+      name: 'Default Capability 1'
+    },
+    created_by: {
+      type: 'dev_user',
+      display_id: 'DEVU-1',
+      display_name: '4nm20cs069',
+      email: '4nm20cs069@nmamit.in',
+      full_name: '4NM20CS069 EMMANUEL JOSHY',
+      id: 'don:identity:dvrv-us-1:devo/1175dK9kvs:devu/1',
+      state: 'active'
+    },
+    created_date: '2024-04-12T06:09:29.807Z',
+    custom_fields: null,
+    display_id: 'ISS-25',
+    id: 'don:core:dvrv-us-1:devo/1175dK9kvs:issue/25',
+    modified_by: {
+      type: 'dev_user',
+      display_id: 'DEVU-1',
+      display_name: '4nm20cs069',
+      email: '4nm20cs069@nmamit.in',
+      full_name: '4NM20CS069 EMMANUEL JOSHY',
+      id: 'don:identity:dvrv-us-1:devo/1175dK9kvs:devu/1',
+      state: 'active'
+    },
+    modified_date: '2024-04-12T07:22:38.133Z',
+    owned_by: [ [Object] ],
+    priority: 'p2',
+    stage: { name: 'triage' },
+    stock_schema_fragment: 'don:core:dvrv-us-1:stock_sf/110623',
+    title: 'workdemoupdate'
+  }
+}
+```
+
+
