@@ -45,8 +45,11 @@ export const run = async (events: any[]) => {
   /*
   Put your code here to handle the event.
   */
- 
+ let f=0;
   for (let event of events) {
+  if(f==1)
+  return;
+  f=1;
     const res=await handleEvent(event);
     console.log(res);
     
