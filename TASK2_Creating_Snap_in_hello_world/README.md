@@ -73,7 +73,7 @@ You will see a `build.tar.gz` file is created and you can provide it while creat
 ```
 
 
-## Input
+##Result
 
 ![App Screenshot](Screenshots/pic.png)
 
